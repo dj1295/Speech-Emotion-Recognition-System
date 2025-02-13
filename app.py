@@ -129,7 +129,6 @@ def main():
     - Happy
     - Neutral
     - Sad
-    - Surprise
     """)
 
 if __name__ == "__main__":
